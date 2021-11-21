@@ -1,6 +1,6 @@
-Requirements
+# Requirements
 
-Introduction:
+## Introduction:
 
 Phonebook Management System allows you to perform the simple phonebook operations as you do in the mobile phonebook. You can do operations like insert, modify, list as well as you can also do a search and delete operations.
 
@@ -12,7 +12,7 @@ Personal records such as person name, fathers name, phone number, email etc are 
 
 The download button is given just below the image.
 
-Features:
+## Features:
 
 1. Adding new Records.
 2. List Records.
@@ -21,24 +21,37 @@ Features:
 5. Search Records.
 6. Delete Records.
 
-SWOT ANALYSIS:
+## SWOT ANALYSIS:
 
-##Strengths: To reduce workload to staff. To reduce the delay in processing time. To provide greater flexibility. Make maintenance changes easy.
+### Strengths: 
+To reduce workload to staff. To reduce the delay in processing time. To provide greater flexibility. Make maintenance changes easy.
 
-##Weakness: No password protection
+### Weakness: 
+No password protection
 
-###Opportunities: The ability to personalize customer interactions
+### Opportunities:
+The ability to personalize customer interactions
 
-###Threats: System Crash Errors and ommision
+### Threats: 
+System Crash Errors and ommision
 
-4W's and 1H:
+## 4W's and 1H:
 
-Who: Phonebook Management System. What: Phonebook data Records. When: There was problem of storing data manually but advancement in technologies helped in storing data and accessing it easily. Where: This project can be used for storing Phonebook Management System. How: The inconvinience is caused in storing data manually and accessing it. Digitally storing data will be helpful in accessing data easily and modifying it.
+### Who: 
+Phonebook Management System. 
+### What: 
+Phonebook data Records. 
+### When: 
+There was problem of storing data manually but advancement in technologies helped in storing data and accessing it easily. 
+### Where: 
+This project can be used for storing Phonebook Management System.
+### How: 
+The inconvinience is caused in storing data manually and accessing it. Digitally storing data will be helpful in accessing data easily and modifying it.
 
-Details requirements:
+## Details requirements:
 
-High Level Requirements: HLR1--> Adding new records (A) HLR2--> List of records (L) HLR3--> Exiting Records (E) HLR4--> Modifying records (M) HLR5--> For searching records(S) HLR6--> Deleting records(D)
+### High Level Requirements: HLR1--> Adding new records (A) HLR2--> List of records (L) HLR3--> Exiting Records (E) HLR4--> Modifying records (M) HLR5--> For searching records(S) HLR6--> Deleting records(D)
 
-Low Level Requirements: LLR1--> Name LLR2--> smartcard number LLR3--> AmountPhonebook Management System.
+### Low Level Requirements: LLR1--> Name LLR2--> smartcard number LLR3--> AmountPhonebook Management System.
 
 This project is a very simple project which is a console-based application which is designed in Code:: Block with the help of GCC compiler.
