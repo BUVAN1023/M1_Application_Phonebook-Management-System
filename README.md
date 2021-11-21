@@ -53,12 +53,12 @@ The inconvinience is caused in storing data manually and accessing it. Digitally
 #### High Level Requirements:
 | ID | Description | Status |
 |------|------|------|
-| HLR1 | User shall be able to add new records (A) | Implemented
-| HLR2 | User shall be able to List of records (L) | Implemented
-| HLR3 | User shall be able to Exiting records (M) |	Implemented
-| HLR4 | User shall be able to Modifying (P) |	Implemented
-| HLR5 | User shall be able For searching records(S) |	Implemented
-| HLR6 | User shall be able to Deleting records(D) |	Implemented
+| HLR1 | User shall be able to add new records (1) | Implemented
+| HLR2 | User shall be able to List of records (2) | Implemented
+| HLR3 | User shall be able to Exiting records (3) |	Implemented
+| HLR4 | User shall be able to Modifying (4) |	Implemented
+| HLR5 | User shall be able For searching records(5) |	Implemented
+| HLR6 | User shall be able to Deleting records(6) |	Implemented
 
 #### Low Level Requirements:
 
