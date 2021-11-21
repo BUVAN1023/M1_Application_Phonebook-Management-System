@@ -50,8 +50,19 @@ The inconvinience is caused in storing data manually and accessing it. Digitally
 
 ## Details requirements:
 
-### High Level Requirements: HLR1--> Adding new records (A) HLR2--> List of records (L) HLR3--> Exiting Records (E) HLR4--> Modifying records (M) HLR5--> For searching records(S) HLR6--> Deleting records(D)
+#### High Level Requirements:
+| ID | Description | Status |
+|------|------|------|
+| HLR1 | User shall be able to add new records (A) | Implemented
+| HLR2 | User shall be able to List of records (L) | Implemented
+| HLR3 | User shall be able to Exiting records (M) |	Implemented
+| HLR4 | User shall be able to Modifying (P) |	Implemented
+| HLR5 | User shall be able For searching records(S) |	Implemented
+| HLR6 | User shall be able to Deleting records(D) |	Implemented
 
-### Low Level Requirements: LLR1--> Name LLR2--> smartcard number LLR3--> AmountPhonebook Management System.
+#### Low Level Requirements:
 
-This project is a very simple project which is a console-based application which is designed in Code:: Block with the help of GCC compiler.
+| ID | Description | Status |
+|-------|------|------|
+| LLR1 | User shall be able to fetch perfect required information | Implemented 
+| LLR2 | System must display data without error | Implemented
