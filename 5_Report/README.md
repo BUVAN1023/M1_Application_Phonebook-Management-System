@@ -1,66 +1,13 @@
-# Requirements
+# ABSTRACT:
 
-## Introduction:
+The phonebook application works specifically for tracking people. The Phonebook application contains a set of basic functions for adding, searching, updating, and deleting new contacts. This mini-C phonebook design allows you to perform simple tasks in your phonebook, such as mobile phones. You can add text to the phonebook, find, edit, search, and delete. The concept of file management and data structure is often used in almost all functions in this project.  It uses functions, file management, and data structure. This application provides information on adding, viewing, modifying, receiving, and deleting data from/to files. Adding new entries, browsing them, editing and updating, searching for saved contacts, and deleting contacts in the phonebook is one of the most important services that become the main menu in the phonebook application. When you add anything to your phone book, you will be asked for personal information such as name, gender, first name, phone number, nationality, email address, and address. You can then edit, view, search, and delete this text.
 
-- Phonebook Management System allows you to perform the simple phonebook operations as you do in the mobile phonebook. You can do operations like insert, modify, list as well as you can also do a search and delete operations.
+# SUMMARY:
 
-- The file handling and data structure concepts are extensively used in this project. This code is totally error-free code.
+Phonebook project is a very simple tool that helps you understand the basic concepts of creation, file extensions and data structure. This software teaches you how to add, view, edit or modify, receive and delete data from files.
+Adding new items, viewing them by logging in, editing and updating, searching for saved contacts and deleting data in the phonebook is one of the main features of the main phonebook application (shown in the main menu below. 
+Personal information, such as name, type, identity, phone number, nationality, email address and address, is required to add a login to the phonebook. You can then edit, view, search and delete this text. It is estimated that there are more than 600 million mobile phone users in the world and the number is also increasing. The success of mobile phones is simply described: they are always there, everywhere. When a trader moves from one place to another, he is doing business without business. If the boy is late returning home, he can tell his parents. If you have a problem with your device, you can seek help along the way. Mobile phones are used for communication and communication between people. Informal meetings (such as going to the bar) are usually arranged on an anonymous and timely map over a mobile phone. In general, there are many ways to use a mobile phone. But there are some problems. Technology decides to reach potential everywhere, anywhere, but its existence does not mean that it can reach all possible respondents! Sharing information about the real world of customers is the way out of this problem. But now mobile user interactions depend on older versions. In particular, the connection between the user and the general user is not sensitive to the context, making it difficult to know when to call and under what circumstances.
 
-- This project is a basic c project which can help you to understand the basic concepts of functions, data structure and file handling. when you run the project the add new records, listing, modifying and delete are visible in the main menu.
+# CONCLUSION: 
 
-- Personal records such as person name, fathers name, phone number, email etc are asked during the addition of records. To understand better just download and execute this project.
-
-## Features:
-
-1. Adding new Records.
-2. List Records.
-3. Exit Records.
-4. Modify Records
-5. Search Records.
-6. Delete Records.
-
-## SWOT ANALYSIS:
-
-### Strengths: 
-To reduce workload to staff. To reduce the delay in processing time. To provide greater flexibility. Make maintenance changes easy.
-
-### Weakness: 
-No password protection
-
-### Opportunities:
-The ability to personalize customer interactions
-
-### Threats: 
-System Crash Errors and ommision
-
-## 4W's and 1H:
-
-### Who: 
-Phonebook Management System. 
-### What: 
-Phonebook data Records. 
-### When: 
-There was problem of storing data manually but advancement in technologies helped in storing data and accessing it easily. 
-### Where: 
-This project can be used for storing Phonebook Management System.
-### How: 
-The inconvinience is caused in storing data manually and accessing it. Digitally storing data will be helpful in accessing data easily and modifying it.
-
-## Details requirements:
-
-### High Level Requirements:
-| ID | Description | Status |
-|------|------|------|
-| HLR1 | User shall be able to add new records (1) | Implemented
-| HLR2 | User shall be able to List of records (2) | Implemented
-| HLR3 | User shall be able to Exit records (3) |	Implemented
-| HLR4 | User shall be able to Modifying records (4) |	Implemented
-| HLR5 | User shall be able For searching records (5) |	Implemented
-| HLR6 | User shall be able to Deleting records (6) |	Implemented
-
-### Low Level Requirements:
-
-| ID | Description | Status |
-|------|------|------|
-| LLR1 | User shall be able to fetch perfect required information | Implemented 
-| LLR2 | System must display data without error | Implemented
+The application program has been successfully implemented using experimental cases and the language used – C. This application works for other functions that make it easy to search, delete, edit, and remember our peer information.
